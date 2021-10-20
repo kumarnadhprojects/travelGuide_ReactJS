@@ -1,0 +1,35 @@
+.link-item {
+  text-decoration: none;
+  width: 50%;
+}
+
+.travel {
+  color: #64748b;
+  font-size: 15px;
+  font-family: 'Roboto';
+}
+
+.team-card {
+  width: 50%;
+}
+
+.travel-card-space {
+  margin: 10px;
+  background-color: #ffffff;
+  padding-bottom: 5px;
+}
+
+.team-logo {
+  width: 100%;
+}
+
+.team-name {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.travel-card-description {
+  margin: 20px;
+}
